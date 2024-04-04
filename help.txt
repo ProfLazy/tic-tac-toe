@@ -1,0 +1,29 @@
+Welcome to the tic tac toe game by Haashir M.
+
+This will be a starter game as my first project
+
+You will be given a tic tac toe board and be prompted to add a 'x' or 'o' in one of the squares
+
+You will be prompted to type in a letter and number to fill in a square
+
+The first turn will always be x and next will be o
+
+ex.
+  a   b   c
+-------------
+|   |   |   | 1
+=============
+|   |   |   | 2
+=============
+|   |   |   | 3
+-------------
+
+  a   b   c
+-------------
+| x |   | x | 1
+=============
+|   | o | x | 2
+=============
+|   |   | x | 3
+-------------
+Player 1 Wins!!
